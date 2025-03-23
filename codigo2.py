@@ -1,3 +1,9 @@
 nombre = "daniel stiven"
 apellido =  "zambrano"
-print("hola " + nombre + apellido)
+
+def saludo (nombre, apellido):
+    print("hola " + nombre + apellido)
+
+apellido2 = "mora"
+
+saludo(nombre, apellido+apellido2)
