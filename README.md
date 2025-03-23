@@ -1,5 +1,5 @@
 # learn-github
 para aprender github
 
-##descripcion
+## descripcion
 este es un repo creado solo para aprender git
