@@ -1,9 +1,5 @@
 nombre = "daniel stiven"
-apellido =  "zambrano"
+apellido =  "zambrano mora" #apellido completo
 
 def saludo (nombre, apellido):
-    print("hola " + nombre + apellido)
-
-apellido2 = "mora"
-
-saludo(nombre, apellido+apellido2)
+    print("hola " + nombre +  " " + apellido)

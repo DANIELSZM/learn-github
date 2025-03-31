@@ -1,6 +1,8 @@
+#funcion que suma cuatro numeros
+
 def sum_four_numbers(a, b, c, d):
     return a + b + c + d
 
-# Example usage
+# Ejemplo de uso
 result = sum_four_numbers(1, 2, 3, 4)
 print("La suma es:", result)
