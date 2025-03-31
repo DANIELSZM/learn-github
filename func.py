@@ -3,4 +3,4 @@ def suma(*num):
 
 
 print(suma(2, 2, 2, 2, 3, 4, 5, 6, 4))
-#buenos dias
+#buenos dias - noches - tardes
