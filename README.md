@@ -2,4 +2,4 @@
 para aprender github
 
 ## descripcion
-este es un repo creado solo para aprender git
+este es un repo creado solo para aprender git y github
