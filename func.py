@@ -4,3 +4,5 @@ def suma(*num):
     return sum(num)
 
 print(suma(2, 1))
+
+#comentario de prueba
